@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Http2SecureServer } from 'http2';
+
 import { HttpClient } from '@angular/common/http';
 
 @Component({
